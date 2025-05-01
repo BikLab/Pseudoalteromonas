@@ -13,7 +13,6 @@
 #SBATCH -o raxml.out-%N
 
 #Path Variables
-#module load RAxML/8.2.12-foss-2022a-pthreads-avx
 module load RAxML/8.2.12-gompi-2022a-hybrid-avx
 
 INPUT=/scratch/ad14556/pangenome-large/results/pirate/core_alignment.fasta
@@ -27,11 +26,11 @@ FAVIIDAE=/scratch/ad14556/pangenome-large/results/pirate/cnidaria_faviidae_core_
 
 mkdir -p "$OUTPUT"
 
-#srun raxmlHPC -f a -T 20 -s "$INPUT" -n pseudoalteromonas-pangenome -m GTRGAMMA -p 1234 -x 500 -#100 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
-#srun raxmlHPC -f a -T 25 -s "$MOLLUSCA" -n pseudoalteromonas-mollusca -m GTRGAMMA -p 1234 -x 500 -#100 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
-#srun raxmlHPC -f a -T 25 -s "$PORIFERA" -n pseudoalteromonas-porifera -m GTRGAMMA -p 1234 -x 500 -#100 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
-#srun raxmlHPC -f a -T 20 -s "$BIVALVIA" -n pseudoalteromonas-bivalvia -m GTRGAMMA -p 1234 -x 500 -#100 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
+srun raxmlHPC -f a -T 25 -s "$INPUT" -n pseudoalteromonas-pangenome -m GTRGAMMA -p 1234 -x 500 -#10000 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
+srun raxmlHPC -f a -T 25 -s "$MOLLUSCA" -n pseudoalteromonas-mollusca -m GTRGAMMA -p 1234 -x 500 -#10000 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
+srun raxmlHPC -f a -T 25 -s "$PORIFERA" -n pseudoalteromonas-porifera -m GTRGAMMA -p 1234 -x 500 -#10000 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
+srun raxmlHPC -f a -T 25 -s "$BIVALVIA" -n pseudoalteromonas-bivalvia -m GTRGAMMA -p 1234 -x 500 -#10000 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
 
-#srun raxmlHPC -f a -T 20 -s "$CNIDARIA" -n pseudoalteromonas-cnidaria -m GTRGAMMA -p 1234 -x 500 -#100 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
-srun raxmlHPC -f a -T 20 -s "$FAVIIDAE" -n pseudoalteromonas-faviidae -m GTRGAMMA -p 1234 -x 500 -#100 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
-srun raxmlHPC -f a -T 20 -s "$SCLERACTINIA" -n pseudoalteromonas-scleractinia -m GTRGAMMA -p 1234 -x 500 -#100 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
+srun raxmlHPC -f a -T 25 -s "$CNIDARIA" -n pseudoalteromonas-cnidaria -m GTRGAMMA -p 1234 -x 500 -#10000 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
+srun raxmlHPC -f a -T 25 -s "$FAVIIDAE" -n pseudoalteromonas-faviidae -m GTRGAMMA -p 1234 -x 500 -#10000 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
+srun raxmlHPC -f a -T 25 -s "$SCLERACTINIA" -n pseudoalteromonas-scleractinia -m GTRGAMMA -p 1234 -x 500 -#10000 -w "$OUTPUT" > job_${SLURM_JOB_ID}.log
