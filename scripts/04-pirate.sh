@@ -7,7 +7,7 @@
 #SBATCH --cpus-per-task=8
 #SBATCH --mem-per-cpu=25G
 #SBATCH --time=7-00:00:00
-#SBATCH --mail-user=ad14556@gmail.com
+#SBATCH --mail-user=ad14556@uga.edu
 #SBATCH --mail-type=END,FAIL
 #SBATCH -e pirate.err-%N
 #SBATCH -o pirate.out-%N
