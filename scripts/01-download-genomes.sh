@@ -12,12 +12,10 @@
 #SBATCH -e genomes.err-%N
 #SBATCH -o genomes.out-%N
 
-
 module load Miniconda3
 source activate /home/ad14556/conda-envs/envs/ncbi_datasets/
 
 cd /home/ad14556/pangenome-large
-
 
 while read line
     do
