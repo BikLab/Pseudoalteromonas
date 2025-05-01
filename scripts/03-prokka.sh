@@ -24,11 +24,9 @@ for file in /home/ad14556/pangenome-large/data/genomes/*.fna
 	do
 		base=$(basename $file .fna)
 		prokka  --outdir /scratch/ad14556/pangenome-large/results/prokka \
-			--proteins /scratch/ad14556/pangenome_psalt/database/fasta/uniprot_sprot.fasta \
+			--proteins /scratch/ad14556/pangenome_psalt/database/uniprot_sprot.fasta \
 			--genus Pseudoalteromonas --kingdom Bacteria --gcode 11 --usegenus \
                         --prefix "$base" \
 			--cpus 24 \
 			--force --compliant --addgenes $file
 	done
-
-#                       --hmms /scratch/ad14556/pangenome_psalt/database/hmm/Pfam-A.hmm \
