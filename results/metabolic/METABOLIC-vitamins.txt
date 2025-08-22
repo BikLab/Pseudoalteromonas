@@ -1,0 +1,237 @@
+Sample	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_1131a	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_1161b	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_125	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_126	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_130	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_17a	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_1CM17D	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_2102	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_2103	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_2CM32C	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_2CM36K	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_2CM37A	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_2CM41L	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_303	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_802	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_A22	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_A25	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_AC163	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_ACER1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_APAL1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_APM04	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_B7P1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_B95	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_BMB	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_BZA4	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_BZB3	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_BZK2	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_C2R02	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_CNAT218	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_CNAT2181	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_CNAT241	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_CNC920	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_CO109Y	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_CO133X	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_CO302Y	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_CO325X	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_CO342X	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_CO348	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_Cn537	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_CnMc713	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_CnMc715	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_CnMc737	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_D15MCD2	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_DL2H1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_DL2H22	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_DL2H6	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_DSM17587	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_EB27	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_ECSMB14103	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_EKP108	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_FE4	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_G4	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_HMSA03	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_Hal040	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Absent	Vitamin B12 (Cobalamin)
+P_JC28	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_JC3	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_JC31	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_JW3	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_KMM661	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_M1318928	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_M1400202	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_M8	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_MB47	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_MEBiC03607	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_MM172	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_MMG024	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_McH142	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_McH17	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_N12309	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_NBRC102222	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_NBRC12985	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_NJ631	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_OANN1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_OF5H5	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_OF7H1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_OFAV1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_OOF1S7	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_Of11M6	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_Of5H6	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_Of7M16	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_P111	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_P18	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_P19	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_P94	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_PA2MD11	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_PAST1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_PPB1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_Ps84H4	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_R96	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_S2893	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_S3173	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_S3178	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_S3260	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SCSIO11900	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SCSIO43088	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SCSIO43101	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SCSIO43201	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SDCH90	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG411	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG412	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG415	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG416	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG418	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG431	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG433	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG434	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG435	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG436	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG437	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG438	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG441	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG4417	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG444	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG445	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG448	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SG451	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG452	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG453	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG455	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SG456	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SK18	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SK20	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SMS1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SR411	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR414	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SR415	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR416	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SR417	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR418	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SR432	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR433	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR435	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR436	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR437	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR442	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR445	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SR448	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SR451	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR454	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SR455	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SR456	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_SW010604	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_Scap03	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SiA1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_TB25	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Absent	Absent
+P_UG31	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_UG32	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_XMcav11Q	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_XMcav2N	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_XMcav2N2	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_agarivorans_DSM14585	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_agarivorans_NW4327	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_agarivorans_S816	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_aliena_EH1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_aliena_SW19	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_amylolytica_JW1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_arctica_A3712	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_arctica_NECBIFX0059	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_arctica_NECBIFX2020001	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_arctica_NECBIFX2020017	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_aurantia_208	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_aurantia_S3788	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_aurantia_S3790	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_aurantia_S3895	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_bablabjr004	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_bablabjr010	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_bablabjr011	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_citrea_DSM8771	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_citrea_S2231	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_citrea_S2233	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_distincta_16SW7	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_distincta_22A13	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_distincta_ATCC700518	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_distincta_KMM3548	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_distincta_LMG14908	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_donghaensis_HJ51	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_espejiana_DSM9414	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_flavipulchra_ATCCBAA314	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_flavipulchra_LMG20361	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_flavipulchra_NCIMB2033	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_flavipulchra_S1925	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_flavipulchra_SCSIO43202	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_fuliginea_KMM216	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_fuliginea_S2292	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_galatheae_S4498	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_gelatinilytica_NH153	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_kknpp56	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_SCSIO43095	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_lipolytica_CSB02KR	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_lipolytica_LMEB39	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_luteoviolacea_2ta16	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_maricaloris_LMG19692	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_neustronica_PAMC28425	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_neustronica_SM1927	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_ostereae_hOe124	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_ostereae_hOe125	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_ostereae_hOe66	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_peptidolytica_DSM14001	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_peptidolytica_F1250A1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_peptidolytica_NBRC101021	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_phenolica_KCTC12086	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_phenolica_OBC302	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_phenolica_S1093	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_phenolica_S1189	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_phenolica_S3663	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_phenolica_S3898	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_piratica_OCN003	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_porphyrae_MNAD16	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_rhizosphaerae_hCg42	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_rubra_DSM6842	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_rubra_S1946	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_rubra_S2471	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_rubra_SCSIO_6842	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_ruthenica_LMG19699	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_ruthenica_S2756	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_ruthenica_S3245	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_scap25	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_scap26	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_shioyasakiensis_28	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_shioyasakiensis_BMC2	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_shioyasakiensis_BMC3	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_shioyasakiensis_BMC4	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_shioyasakiensis_BMC5	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_shioyasakiensis_G21653S1	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_shioyasakiensis_LC2	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_shioyasakiensis_M1400201	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_spongiae_SAO44	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_spongiae_UST010723006	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_tetradonis_CSB01KR	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_translucida_KMM520	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_tunicata_D2	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_undina_DSM6065	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_undina_NEM01	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_undina_NEM02	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Absent
+P_viridis_BBR56	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
+P_xiamenensis_PSDB	Vitamin B1 (Thiamine)	Vitamin B2 (Riboflavin)	Vitamin B7 (Biotin)	Vitamin B12 (Cobalamin)
